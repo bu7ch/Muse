@@ -14,6 +14,7 @@ gem 'haml'
 gem 'simple_form'
 gem 'devise'
 gem 'paperclip'
+gem 'acts_as_votable', '~> 0.11.1'  
 
 gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
